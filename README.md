@@ -1,2 +1,4 @@
-# lablabdada
-自用仓库存储
+# linhistory
+灵史自用设定集
+
+
